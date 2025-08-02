@@ -1,2 +1,2 @@
 # c-programming
-1st year SPL codes
+1st semester SPL codes
